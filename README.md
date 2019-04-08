@@ -1,7 +1,11 @@
-# photo-gallery-android
+# android app
 alpha photo gallery
-##open dir with android studio
+
+
+
+
+###open dir with android studio
 
 
 version 0.0.1
-hour 0
+hour 2
